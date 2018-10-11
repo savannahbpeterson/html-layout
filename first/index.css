@@ -1,0 +1,47 @@
+* {
+    transition: all 0.2s ease-in-out;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    margin: 0;
+  }
+ 
+ 
+ #top {
+    background-color: rgb(71, 69, 69);
+    height: 20vh;
+ }
+ 
+ .container {
+    display: flex;
+    /* height: 80vh; */
+    /* flex-flow: row nowrap; */
+ }
+ 
+ .col {
+    height: 80vh;
+ }
+ 
+ .column1 {
+    background-color: lightgrey;
+    width: 10%;
+ }
+ 
+ .column2 {
+    background-color: green;
+    width: 80%;
+ }
+ 
+ .column3 {
+    background-color: lightgrey;
+    width: 10%;
+ }
+ 
+ #middle-top {
+    background-color: white;
+    height: 90%;
+ }
+ 
+ #middle-bottom {
+    background-color: black;
+    height: 10%
+ }
