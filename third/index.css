@@ -1,0 +1,47 @@
+ 
+
+ .row{
+     height:100px;
+ }
+
+ .row1 {
+ background-color: #D8D8D8;
+  padding: 25px;
+  box-sizing: border-box;
+
+} 
+#little-box{
+    height: 50px;
+    width: 50px;
+    background-color: blue;
+}
+
+.row2 {
+    background-color: white;
+    height: 200px;
+   padding: 50px 50px;
+} 
+
+.row3 {
+    background-color: blue;
+   
+} 
+
+.row4 {
+    background-color: green;
+   
+} 
+
+.row5 {
+    background-color: lightgreen;
+   
+}
+
+.row6 {
+    background-color:yellow;
+   
+}
+
+h2 {
+    font-family: sans-serif;
+}
